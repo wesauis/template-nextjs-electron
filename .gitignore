@@ -13,7 +13,7 @@
 /renderer/out/
 
 # production
-/main
+/build
 /dist
 
 # misc
